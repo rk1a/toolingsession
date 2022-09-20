@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "756de0c63ec0c573",
+        "id": "14297b154996019e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Basics.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Basics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,12 +120,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "756de0c63ec0c573",
+  "active": "14297b154996019e",
   "lastOpenFiles": [
+    "Basics.md",
     "Presentation.md",
     "RMarkdown for publications.md",
     "Pytorch scatter geometric.md",
-    "Basics.md",
     "Concepts/Wikipedia.md",
     "Pasted image 20220917182449.png",
     "Pasted image 20220916110336.png",

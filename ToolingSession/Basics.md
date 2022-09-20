@@ -17,10 +17,11 @@
 - Add images: drag and drop
 - tables
 
-|animal|size|
-	|---|---|
-|mouse|small|
-|elephant|big|
+| animal | size |
+|---|---|
+| mouse | small |
+| cat | medium |
+| elephant | big |
 
 
 
