@@ -1,0 +1,1 @@
+The process of and techniques for solving an optimization problem whose objective and constraints are convex. 
