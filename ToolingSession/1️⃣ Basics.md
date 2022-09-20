@@ -8,6 +8,7 @@
 # Functions
 - create new note Ctrl + n
 - create new note in new pane: Ctrl +Shift + n
+- drag panes
 - pin pane
 - Internal link: [[]]
 - Ctrl + click on non-existent link to create the note
@@ -15,14 +16,6 @@
 - Switch between edit and preview: Ctrl + e
 - Add tags: #tooling
 - Add images: drag and drop
-- tables
-
-| animal | size |
-|---|---|
-| mouse | small |
-| cat | medium |
-| elephant | big |
-
 
 
 # Markup
@@ -30,15 +23,21 @@
 ## Heading 2 
 ### Heading 3 etc.
 
-bold Ctrl + b
+**bold** Ctrl + b
 
-italic Ctrl + i
+*italic* Ctrl + i
+
+~~strikethrough~~ 
 
 ==highlight==
 
-> Alea iacta est.
+blockquote
+> Alea iacta est. 🎲
+
+dividers:
 
 ---
+
 - bullet
 - points
 
@@ -48,3 +47,12 @@ italic Ctrl + i
 - [ ] Todo
 - [ ] lists
 Ctrl + Enter 
+
+ 
+ tables:
+| animal | size   | sound   |
+| ------ | ------ | ------- |
+| 🐁     | small  | squeak  |
+| 🐈     | medium | meow    |
+| 🐘     | big    | trumpet |
+

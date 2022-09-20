@@ -13,7 +13,7 @@
 - Useful plugins for research
 
 ---
-## [[Basics]]
+## [[1️⃣ Basics]]
 
 - Markdown
 - $\LaTeX$: $E = mc^2$ via \$\$

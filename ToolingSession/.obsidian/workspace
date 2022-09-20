@@ -7,8 +7,12 @@
         "id": "14297b154996019e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1️⃣ Basics.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1️⃣ Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1️⃣ Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1️⃣ Basics.md"
+              }
             }
           }
         ]
@@ -122,15 +130,15 @@
   },
   "active": "14297b154996019e",
   "lastOpenFiles": [
-    "Basics.md",
-    "Presentation.md",
-    "RMarkdown for publications.md",
-    "Pytorch scatter geometric.md",
+    "📊 Presentation.md",
+    "👉 Index.md",
+    "1️⃣ Basics.md",
+    "Tools/RMarkdown for publications.md",
+    "Tools/Pytorch scatter geometric.md",
     "Concepts/Wikipedia.md",
     "Pasted image 20220917182449.png",
     "Pasted image 20220916110336.png",
     "Concepts/convex optimization.md",
-    "Convex optimization.md",
-    "Concepts/Artificial intelligence.md"
+    "Convex optimization.md"
   ]
 }

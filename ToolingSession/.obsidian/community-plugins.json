@@ -1,5 +1,7 @@
 [
   "obsidian-citation-plugin",
   "obsidian-ankibridge",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "obsidian-emoji-toolbar"
 ]
