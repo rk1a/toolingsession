@@ -3,5 +3,6 @@
   "spellcheckLanguages": [
     "en-US",
     "de-DE"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

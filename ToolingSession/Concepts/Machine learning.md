@@ -1,0 +1,5 @@
+- [[Supervised learning]]
+- [[Unsupervised learning]]
+- [[Reinforcement learning]]
+- [[Anomaly detection]]
+- [[Artificial neural network]]

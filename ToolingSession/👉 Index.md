@@ -1,2 +1,3 @@
 - [[📊 Presentation]]
-- [[1️⃣ Basics]]
+- [[1️⃣ Markdown Basics]]
+- [[🤖 Artificial intelligence]]
